@@ -2951,7 +2951,7 @@ ul.staggered-list li {
 footer.page-footer {
   margin-top: 20px;
   padding-top: 20px;
-  background-color: #01579B;
+  background-color: #555;
 }
 
 footer.page-footer .footer-copyright {
@@ -4067,7 +4067,7 @@ input[type=range] + .thumb {
 
 nav {
   color: #fff;
-  background-color: #01579B;
+  background-color: #555;
   width: 100%;
   height: 56px;
   line-height: 56px;
@@ -5140,7 +5140,7 @@ button.btn-floating {
 
 .dropdown-content li > a, .dropdown-content li > span {
   font-size: 16px;
-  color: #26a69a;
+  color: #555;
   display: block;
   line-height: 22px;
   padding: 14px 16px;
