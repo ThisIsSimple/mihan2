@@ -4,7 +4,8 @@ $(document).ready(function(){
   $('.dropdown-button').dropdown();
 
   var options = [
-  {selector: '#board1', offset: 200, callback: function(el) { Materialize.showStaggeredList($(el)); } },
-  {selector: '#board2', offset: 200, callback: function(el) { Materialize.fadeInImage($(el)); } } ];
+  {selector: '#board1', offset: 300, callback: function(el) { Materialize.showStaggeredList($(el)); } },
+  {selector: '#board2', offset: 400, callback: function(el) { Materialize.fadeInImage($(el)); } } ];
+
   Materialize.scrollFire(options);
 });

@@ -1,3 +1,16 @@
 .parallax-container {
   height: 789px !important;
+  text-align: center;
+}
+
+@media screen and (max-width: 1010px) {
+  .col img {
+    height: 150px !important;
+  }
+}
+
+@media screen and (max-width: 758px) {
+  .col img {
+    height: 100px !important;
+  }
 }
