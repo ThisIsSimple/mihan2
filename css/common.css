@@ -1,0 +1,15 @@
+.blank {
+  height: 50px;
+}
+
+.blank-sm {
+  height: 30px;
+}
+
+.blank-lg {
+  height: 100px;
+}
+
+footer.page-footer {
+  margin: 0;
+}
